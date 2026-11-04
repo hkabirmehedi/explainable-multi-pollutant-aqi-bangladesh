@@ -10,7 +10,7 @@ The proposed approach combines XGBoost, Bagging, and Random Forest through equal
 
 The following figure illustrates the complete experimental workflow, including dataset preparation, AQI label generation, data partitioning, preprocessing, model training, baseline comparison, and evaluation.
 
-![Proposed Research Workflow](figures/workflow.png)
+![Proposed Research Workflow](figures/fig. 1.png)
 
 **Figure 1.** Overview of the proposed multi-pollutant AQI classification framework.
 
